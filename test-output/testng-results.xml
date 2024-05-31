@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-31T13:32:22Z" name="Default suite" finished-at="2024-05-31T13:32:27Z" duration-ms="5411">
+    <groups>
+    </groups>
+    <test started-at="2024-05-31T13:32:22Z" name="Default test" finished-at="2024-05-31T13:32:27Z" duration-ms="5411">
+      <class name="com.br24.com.openUrl">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:com.br24.com.openUrl@70f02c32]" started-at="2024-05-31T19:32:20Z" name="startBrowser" finished-at="2024-05-31T19:32:22Z" duration-ms="1216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="open()[pri:0, instance:com.br24.com.openUrl@70f02c32]" started-at="2024-05-31T19:32:22Z" name="open" finished-at="2024-05-31T19:32:27Z" duration-ms="5398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.br24.com.openUrl@70f02c32]" started-at="2024-05-31T19:32:27Z" name="closeBrowser" finished-at="2024-05-31T19:32:27Z" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.br24.com.openUrl -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
